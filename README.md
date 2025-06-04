@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Artem Eremim. I'm a Java software engineer with over 5 years of experience. I have worked in the biggest banks in the country and have a lot of experience working on different projects like CRM for enterprise business, automated platform for personal loans and payments and transfers system for more than 5 millions clients.
+My name is Artem Eremim. I'm a Java software engineer with over 6 years of experience. I have worked in the biggest banks in the country and have a lot of experience working on different projects like CRM for enterprise business, automated platform for personal loans and payments and transfers system for more than 5 millions clients.
 
 I have a plenty of experience in creating and designing systems, focusing on their architecture and overall structure. My expertise extends to database design and BPMN systems. I have an extensive background in working with microservices based on Java/Kotlin and Spring Boot technology.
 
